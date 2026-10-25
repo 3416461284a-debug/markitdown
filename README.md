@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 年报和文档文字提取｜MarkItDown
+
+> **一句话看懂：把年报和文档转成可分析的文字。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 把年报和文档转成可分析的文字。 |
+| 怎么使用 | 通过Python或命令行，把文档转换成便于检索和分析的文字。 |
+| 适合谁 | 需要整理年报、行业报告和办公文档的人。 |
+| 主要限制 | 复杂表格和扫描件需要复核。 |
+| 后续可以怎么改 | 保留原文页码，检查金额和表格合计。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 # MarkItDown
 
 [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)
@@ -469,3 +494,6 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+
+</details>
